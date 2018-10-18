@@ -28,6 +28,7 @@ subjects:
 - !lcc 'T'
 - !lcsh 'Technology -- Juvenile literature'
 - !lcsh 'Science -- Juvenile literature'
+- GITenberg
 tableOfContents: The steam-engine -- The conversion of heat energy into mechanical
   motion -- The steam turbine -- The internal-combustion engine -- Electrical apparatus
   -- The electric telegraph -- Wireless telegraphy -- The telephone -- Dynamos and
